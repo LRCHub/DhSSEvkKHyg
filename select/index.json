@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Turn It Around",
+  "base_artist": "A-One",
+  "createdAt": "2026-02-25T06:56:54.224352Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Turn It Around",
+      "artist": "Randy Travis",
+      "has_synced": true,
+      "path": "select/01_Turn_It_Around_Randy_Travis.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Turn It Around (Album Version)",
+      "artist": "Randy Travis",
+      "has_synced": true,
+      "path": "select/02_Turn_It_Around_(Album_Version)_Randy_Travis.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Turn It Around",
+      "artist": "4 Strings",
+      "has_synced": false,
+      "path": "select/03_Turn_It_Around_4_Strings.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Turn It Around - DJ 4 Strings Vocal Mix",
+      "artist": "4 Strings",
+      "has_synced": false,
+      "path": "select/04_Turn_It_Around_-_DJ_4_Strings_Vocal_Mix_4_Strings.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Turn It Around (Sander vocal mix)",
+      "artist": "4 Strings",
+      "has_synced": false,
+      "path": "select/05_Turn_It_Around_(Sander_vocal_mix)_4_Strings.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Turn It Around - UK Radio Edit",
+      "artist": "4 Strings",
+      "has_synced": false,
+      "path": "select/06_Turn_It_Around_-_UK_Radio_Edit_4_Strings.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Turn it Around - Club Mix",
+      "artist": "4 Strings",
+      "has_synced": false,
+      "path": "select/07_Turn_it_Around_-_Club_Mix_4_Strings.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Turn It Around (Extended Mix)",
+      "artist": "4 Strings",
+      "has_synced": false,
+      "path": "select/08_Turn_It_Around_(Extended_Mix)_4_Strings.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Turn It Around (Radio Edit)",
+      "artist": "4 Strings",
+      "has_synced": false,
+      "path": "select/09_Turn_It_Around_(Radio_Edit)_4_Strings.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Block Rockin Beats (Turn It Around mix)",
+      "artist": "The Chemical Brothers",
+      "has_synced": false,
+      "path": "select/10_Block_Rockin_Beats_(Turn_It_Around_mix)_The_Chemical_Brothers.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Turn It Around",
+      "artist": "Sub Focus feat. Kele",
+      "has_synced": true,
+      "path": "select/11_Turn_It_Around_Sub_Focus_feat._Kele.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Turn It Around (feat. Kele)",
+      "artist": "Sub Focus",
+      "has_synced": true,
+      "path": "select/12_Turn_It_Around_(feat._Kele)_Sub_Focus.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Turn It Around (Ethnic Mix)",
+      "artist": "Asia",
+      "has_synced": false,
+      "path": "select/13_Turn_It_Around_(Ethnic_Mix)_Asia.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Turn It Around",
+      "artist": "L.A. Guns",
+      "has_synced": true,
+      "path": "select/14_Turn_It_Around_L.A._Guns.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Turn It Around - Sandler Vocal Mix",
+      "artist": "4 Strings",
+      "has_synced": false,
+      "path": "select/15_Turn_It_Around_-_Sandler_Vocal_Mix_4_Strings.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Turn It Around (Radio Edit UK)",
+      "artist": "4 Strings",
+      "has_synced": false,
+      "path": "select/16_Turn_It_Around_(Radio_Edit_UK)_4_Strings.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Turn It Around",
+      "artist": "Hüsker Dü",
+      "has_synced": false,
+      "path": "select/17_Turn_It_Around_Hüsker_Dü.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Turn It Around",
+      "artist": "Alena",
+      "has_synced": false,
+      "path": "select/18_Turn_It_Around_Alena.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Turn it around",
+      "artist": "4 Strings",
+      "has_synced": true,
+      "path": "select/19_Turn_it_around_4_Strings.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Turn It Around (feat. Kele)",
+      "artist": "Sub Focus, Kele",
+      "has_synced": true,
+      "path": "select/20_Turn_It_Around_(feat._Kele)_Sub_Focus,_Kele.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Turn It Around",
+      "artist": "A-One",
+      "has_synced": false,
+      "path": "select/pl_01_Turn_It_Around_A-One.txt"
+    }
+  ]
+}
